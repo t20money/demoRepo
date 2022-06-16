@@ -1,5 +1,0 @@
-if (_model_name == "Song") {
-  return false;
-} 
-
-return true;
